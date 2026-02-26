@@ -5,7 +5,7 @@ This repository documents my ongoing Master’s research focused on **antagonist
 
 The work explores how different AI modelling approaches influence **player perception, predictability, tension, and believability**, with special attention to **VR-specific constraints**.
 
-> **Scope note:** This project is intentionally research- and prototype-driven.  
+> **Scope note:** This project is research and prototype-driven.  
 > It is not presented as a finished, production-ready AI framework.
 
 ---
@@ -75,13 +75,12 @@ These criteria guide both analysis and prototyping decisions.
 Current work includes:
 - Behaviour Tree structure design
 - Analysis of node composition and execution flow
-- Early Unity-based prototyping experiments
 - Design documentation and evaluation planning
 
 Planned next steps:
-- Implementing small, focused BT prototypes
-- Comparing authored behaviour scenarios across approaches
-- Documenting observed strengths and limitations
+- Unity-based Behaviour Tree prototyping
+- Comparative behaviour scenario implementation
+- Documentation of observed strengths and limitations
 
 ---
 
